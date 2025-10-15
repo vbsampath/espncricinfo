@@ -25,6 +25,12 @@ Helpful Resources for API's
 * <https://github.com/pseudo-r/Public-ESPN-API>
 * <https://gist.github.com/nntrn/ee26cb2a0716de0947a0a4e9a157bc1c>
 
+## Installation
+
+```shell
+npm install
+```
+
 ## Usage
 
 Initializing ESPN Cricinfo Instance
@@ -81,6 +87,31 @@ For complete client implementation please follow [espncricinfo-client](https://g
 ## Samples
 
 For data samples for various methods please follow [Samples](https://github.com/vbsampath/espncricinfo/blob/main/samples/)
+
+## Tests
+
+To run all tests at once
+
+```shell
+npm run test
+```
+
+To run individual sections of tests
+
+```shell
+npm run test:series
+npm run test:summary
+npm run test:player
+npm run test:match
+```
+
+To get test coverage
+
+```shell
+npm run test:coverage
+```
+
+Open coverage/index.html in browser
 
 ## License
 
