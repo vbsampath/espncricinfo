@@ -80,7 +80,7 @@ For complete client implementation please follow [espncricinfo-client](https://g
 
 ## Samples
 
-For data samples for various methods please follow [Samples](https://github.com/vbsampath/espncricinfo/blob/master/samples/)
+For data samples for various methods please follow [Samples](https://github.com/vbsampath/espncricinfo/blob/main/samples/)
 
 ## License
 
