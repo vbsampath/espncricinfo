@@ -1,0 +1,754 @@
+[
+    [
+        {
+            "athlete": {
+                "name": "Cameron Bancroft",
+                "playerId": "501011"
+            },
+            "inningsStats": [
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Sam Whiteman",
+                "playerId": "334394"
+            },
+            "inningsStats": [
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Jayden Goodwin",
+                "playerId": "1202237"
+            },
+            "inningsStats": [
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Cameron Green",
+                "playerId": "1076713"
+            },
+            "inningsStats": [
+                {
+                    "overs": 4,
+                    "maidens": 2,
+                    "conceded": 13,
+                    "wickets": 1,
+                    "economyRate": 3.25,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Hilton Cartwright",
+                "playerId": "557295"
+            },
+            "inningsStats": [
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Joel Curtis",
+                "playerId": "1334874"
+            },
+            "inningsStats": [
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Ashton Agar",
+                "playerId": "505120"
+            },
+            "inningsStats": [
+                {
+                    "overs": 5.5,
+                    "maidens": 2,
+                    "conceded": 5,
+                    "wickets": 3,
+                    "economyRate": 0.85,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 13,
+                    "maidens": 4,
+                    "conceded": 33,
+                    "wickets": 1,
+                    "economyRate": 2.53,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Joel Paris",
+                "playerId": "501012"
+            },
+            "inningsStats": [
+                {
+                    "overs": 14,
+                    "maidens": 7,
+                    "conceded": 28,
+                    "wickets": 1,
+                    "economyRate": 2,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 1,
+                    "maidens": 0,
+                    "conceded": 1,
+                    "wickets": 0,
+                    "economyRate": 1,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Matthew Kelly",
+                "playerId": "638912"
+            },
+            "inningsStats": [
+                {
+                    "overs": 13,
+                    "maidens": 1,
+                    "conceded": 55,
+                    "wickets": 2,
+                    "economyRate": 4.23,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 1,
+                    "noballs": 1
+                },
+                {},
+                {
+                    "overs": 23,
+                    "maidens": 6,
+                    "conceded": 43,
+                    "wickets": 5,
+                    "economyRate": 1.86,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 1,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Cameron Gannon",
+                "playerId": "326635"
+            },
+            "inningsStats": [
+                {
+                    "overs": 11,
+                    "maidens": 2,
+                    "conceded": 29,
+                    "wickets": 2,
+                    "economyRate": 2.63,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 2
+                },
+                {},
+                {
+                    "overs": 20,
+                    "maidens": 4,
+                    "conceded": 80,
+                    "wickets": 2,
+                    "economyRate": 4,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Corey Rocchiccioli",
+                "playerId": "1205981"
+            },
+            "inningsStats": [
+                {
+                    "overs": 15,
+                    "maidens": 5,
+                    "conceded": 40,
+                    "wickets": 1,
+                    "economyRate": 2.66,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 17.3,
+                    "maidens": 3,
+                    "conceded": 54,
+                    "wickets": 2,
+                    "economyRate": 3.08,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {}
+            ]
+        }
+    ],
+    [
+        {
+            "athlete": {
+                "name": "Blake Nikitaras",
+                "playerId": "1169066"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Sam Konstas",
+                "playerId": "1393951"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Kurtis Patterson",
+                "playerId": "505110"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Matthew Gilkes",
+                "playerId": "1081730"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Oliver Davies",
+                "playerId": "1076377"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Chris Green",
+                "playerId": "787073"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 2,
+                    "maidens": 1,
+                    "conceded": 3,
+                    "wickets": 0,
+                    "economyRate": 1.5,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 2,
+                    "maidens": 1,
+                    "conceded": 1,
+                    "wickets": 0,
+                    "economyRate": 0.5,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "William Salzmann",
+                "playerId": "1295845"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 1,
+                    "maidens": 0,
+                    "conceded": 1,
+                    "wickets": 0,
+                    "economyRate": 1,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 0,
+                    "maidens": 0,
+                    "conceded": 0,
+                    "wickets": 0,
+                    "economyRate": 0,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Charlie Stobo",
+                "playerId": "905853"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 16,
+                    "maidens": 3,
+                    "conceded": 42,
+                    "wickets": 2,
+                    "economyRate": 2.62,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 12,
+                    "maidens": 5,
+                    "conceded": 17,
+                    "wickets": 2,
+                    "economyRate": 1.41,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Nathan Lyon",
+                "playerId": "272279"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 13.5,
+                    "maidens": 3,
+                    "conceded": 50,
+                    "wickets": 1,
+                    "economyRate": 3.61,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 18,
+                    "maidens": 5,
+                    "conceded": 49,
+                    "wickets": 1,
+                    "economyRate": 2.72,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Liam Hatcher",
+                "playerId": "901155"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 12,
+                    "maidens": 5,
+                    "conceded": 20,
+                    "wickets": 2,
+                    "economyRate": 1.66,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                },
+                {},
+                {
+                    "overs": 12,
+                    "maidens": 4,
+                    "conceded": 49,
+                    "wickets": 4,
+                    "economyRate": 4.08,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 1
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Ryan Hadley",
+                "playerId": "1088615"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "overs": 17,
+                    "maidens": 3,
+                    "conceded": 38,
+                    "wickets": 5,
+                    "economyRate": 2.23,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 1,
+                    "noballs": 1
+                },
+                {},
+                {
+                    "overs": 11.1,
+                    "maidens": 1,
+                    "conceded": 30,
+                    "wickets": 3,
+                    "economyRate": 2.68,
+                    "dots": 0,
+                    "foursConceded": 0,
+                    "sixesConceded": 0,
+                    "wides": 0,
+                    "noballs": 0
+                }
+            ]
+        }
+    ]
+]

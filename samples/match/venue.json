@@ -1,0 +1,29 @@
+{
+    "id": "56490",
+    "fullName": "W.A.C.A. Ground, Perth",
+    "shortName": "W.A.C.A. Ground, Perth",
+    "address": {
+        "city": "Perth",
+        "state": "",
+        "zipCode": "",
+        "country": "Australia",
+        "summary": ""
+    },
+    "capacity": 18000,
+    "grass": true,
+    "images": [],
+    "links": [
+        {
+            "language": "en",
+            "rel": [
+                "ground",
+                "desktop"
+            ],
+            "href": "https://www.espncricinfo.com/ci/content/ground/56490.html",
+            "text": "Ground",
+            "shortText": "Ground",
+            "isExternal": false,
+            "isPremium": false
+        }
+    ]
+}

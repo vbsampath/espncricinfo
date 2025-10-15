@@ -1,0 +1,578 @@
+[
+    [
+        {
+            "athlete": {
+                "name": "Cameron Bancroft",
+                "playerId": "501011"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 29,
+                    "minutes": 0,
+                    "runs": 10,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 34.48
+                },
+                {},
+                {
+                    "ballsFaced": 18,
+                    "minutes": 0,
+                    "runs": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 16.66
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Sam Whiteman",
+                "playerId": "334394"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 9,
+                    "minutes": 0,
+                    "runs": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 11.11
+                },
+                {},
+                {
+                    "ballsFaced": 80,
+                    "minutes": 0,
+                    "runs": 28,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strikeRate": 35
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Jayden Goodwin",
+                "playerId": "1202237"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 26,
+                    "minutes": 0,
+                    "runs": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 3.84
+                },
+                {},
+                {
+                    "ballsFaced": 37,
+                    "minutes": 0,
+                    "runs": 13,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strikeRate": 35.13
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Cameron Green",
+                "playerId": "1076713"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 43,
+                    "minutes": 0,
+                    "runs": 19,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strikeRate": 44.18
+                },
+                {},
+                {
+                    "ballsFaced": 38,
+                    "minutes": 0,
+                    "runs": 24,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strikeRate": 63.15
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Hilton Cartwright",
+                "playerId": "557295"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 54,
+                    "minutes": 0,
+                    "runs": 34,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strikeRate": 62.96
+                },
+                {},
+                {
+                    "ballsFaced": 47,
+                    "minutes": 0,
+                    "runs": 11,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strikeRate": 23.4
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Joel Curtis",
+                "playerId": "1334874"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 10,
+                    "minutes": 0,
+                    "runs": 8,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strikeRate": 80
+                },
+                {},
+                {
+                    "ballsFaced": 1,
+                    "minutes": 0,
+                    "runs": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Ashton Agar",
+                "playerId": "505120"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 85,
+                    "minutes": 0,
+                    "runs": 23,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strikeRate": 27.05
+                },
+                {},
+                {
+                    "ballsFaced": 59,
+                    "minutes": 0,
+                    "runs": 42,
+                    "fours": 4,
+                    "sixes": 1,
+                    "strikeRate": 71.18
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Joel Paris",
+                "playerId": "501012"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 2,
+                    "minutes": 0,
+                    "runs": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 50
+                },
+                {},
+                {
+                    "ballsFaced": 30,
+                    "minutes": 0,
+                    "runs": 22,
+                    "fours": 4,
+                    "sixes": 0,
+                    "strikeRate": 73.33
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Matthew Kelly",
+                "playerId": "638912"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 43,
+                    "minutes": 0,
+                    "runs": 20,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strikeRate": 46.51
+                },
+                {},
+                {
+                    "ballsFaced": 7,
+                    "minutes": 0,
+                    "runs": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Cameron Gannon",
+                "playerId": "326635"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 43,
+                    "minutes": 0,
+                    "runs": 12,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strikeRate": 27.9
+                },
+                {},
+                {
+                    "ballsFaced": 6,
+                    "minutes": 0,
+                    "runs": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                }
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Corey Rocchiccioli",
+                "playerId": "1205981"
+            },
+            "inningsStats": [
+                {},
+                {
+                    "ballsFaced": 28,
+                    "minutes": 0,
+                    "runs": 23,
+                    "fours": 1,
+                    "sixes": 2,
+                    "strikeRate": 82.14
+                },
+                {},
+                {
+                    "ballsFaced": 9,
+                    "minutes": 0,
+                    "runs": 2,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 22.22
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "athlete": {
+                "name": "Blake Nikitaras",
+                "playerId": "1169066"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 57,
+                    "minutes": 0,
+                    "runs": 9,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 15.78
+                },
+                {},
+                {
+                    "ballsFaced": 12,
+                    "minutes": 0,
+                    "runs": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 25
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Sam Konstas",
+                "playerId": "1393951"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 25,
+                    "minutes": 0,
+                    "runs": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 16
+                },
+                {},
+                {
+                    "ballsFaced": 15,
+                    "minutes": 0,
+                    "runs": 14,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strikeRate": 93.33
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Kurtis Patterson",
+                "playerId": "505110"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 36,
+                    "minutes": 0,
+                    "runs": 8,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 22.22
+                },
+                {},
+                {
+                    "ballsFaced": 6,
+                    "minutes": 0,
+                    "runs": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 66.66
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Matthew Gilkes",
+                "playerId": "1081730"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 57,
+                    "minutes": 0,
+                    "runs": 36,
+                    "fours": 5,
+                    "sixes": 1,
+                    "strikeRate": 63.15
+                },
+                {},
+                {
+                    "ballsFaced": 40,
+                    "minutes": 0,
+                    "runs": 16,
+                    "fours": 3,
+                    "sixes": 0,
+                    "strikeRate": 40
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Oliver Davies",
+                "playerId": "1076377"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 37,
+                    "minutes": 0,
+                    "runs": 21,
+                    "fours": 3,
+                    "sixes": 1,
+                    "strikeRate": 56.75
+                },
+                {},
+                {
+                    "ballsFaced": 21,
+                    "minutes": 0,
+                    "runs": 10,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strikeRate": 47.61
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Chris Green",
+                "playerId": "787073"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 35,
+                    "minutes": 0,
+                    "runs": 17,
+                    "fours": 1,
+                    "sixes": 1,
+                    "strikeRate": 48.57
+                },
+                {},
+                {
+                    "ballsFaced": 45,
+                    "minutes": 0,
+                    "runs": 28,
+                    "fours": 2,
+                    "sixes": 1,
+                    "strikeRate": 62.22
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "William Salzmann",
+                "playerId": "1295845"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 72,
+                    "minutes": 0,
+                    "runs": 43,
+                    "fours": 7,
+                    "sixes": 0,
+                    "strikeRate": 59.72
+                },
+                {},
+                {
+                    "ballsFaced": 130,
+                    "minutes": 0,
+                    "runs": 72,
+                    "fours": 10,
+                    "sixes": 1,
+                    "strikeRate": 55.38
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Charlie Stobo",
+                "playerId": "905853"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 12,
+                    "minutes": 0,
+                    "runs": 12,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strikeRate": 100
+                },
+                {},
+                {
+                    "ballsFaced": 88,
+                    "minutes": 0,
+                    "runs": 22,
+                    "fours": 2,
+                    "sixes": 0,
+                    "strikeRate": 25
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Nathan Lyon",
+                "playerId": "272279"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 29,
+                    "minutes": 0,
+                    "runs": 9,
+                    "fours": 1,
+                    "sixes": 0,
+                    "strikeRate": 31.03
+                },
+                {},
+                {
+                    "ballsFaced": 57,
+                    "minutes": 0,
+                    "runs": 40,
+                    "fours": 6,
+                    "sixes": 1,
+                    "strikeRate": 70.17
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Liam Hatcher",
+                "playerId": "901155"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 11,
+                    "minutes": 0,
+                    "runs": 4,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 36.36
+                },
+                {},
+                {
+                    "ballsFaced": 13,
+                    "minutes": 0,
+                    "runs": 0,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 0
+                },
+                {}
+            ]
+        },
+        {
+            "athlete": {
+                "name": "Ryan Hadley",
+                "playerId": "1088615"
+            },
+            "inningsStats": [
+                {
+                    "ballsFaced": 9,
+                    "minutes": 0,
+                    "runs": 3,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 33.33
+                },
+                {},
+                {
+                    "ballsFaced": 20,
+                    "minutes": 0,
+                    "runs": 1,
+                    "fours": 0,
+                    "sixes": 0,
+                    "strikeRate": 5
+                },
+                {}
+            ]
+        }
+    ]
+]

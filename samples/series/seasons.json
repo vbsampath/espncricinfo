@@ -1,0 +1,1271 @@
+[
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025",
+        "id": "8043",
+        "year": 2025,
+        "startDate": "2025-10-04T00:00Z",
+        "endDate": "2026-03-30T23:59Z",
+        "name": "Sheffield Shield 2025",
+        "alternateName": "",
+        "description": "Sheffield Shield",
+        "shortName": "Sheffield Shield",
+        "shortAlternateName": "Sheffield Shield",
+        "slug": "sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025/types"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2025/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2025/sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2025/sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1495274.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2024",
+        "id": "8043",
+        "year": 2024,
+        "startDate": "2024-10-08T00:00Z",
+        "endDate": "2025-03-30T23:59Z",
+        "name": "Sheffield Shield 2024",
+        "alternateName": "",
+        "description": "Sheffield Shield",
+        "shortName": "Sheffield Shield",
+        "shortAlternateName": "Sheffield Shield",
+        "slug": "sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2024/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2024/types"
+        },
+        "winner": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/520"
+        },
+        "award": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2024/awards"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2024/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2024/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2024/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2024/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2024/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2024/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "squads",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/squad/index.html?object=1444468",
+                "text": "Squads",
+                "shortText": "Squads",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2024/sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2024/sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1444468.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "videos",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/video_audio/index.html?class=series;object=1444468",
+                "text": "Videos",
+                "shortText": "Videos",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2023",
+        "id": "8043",
+        "year": 2023,
+        "startDate": "2023-10-03T00:00Z",
+        "endDate": "2024-03-25T23:59Z",
+        "name": "Sheffield Shield 2023",
+        "alternateName": "",
+        "description": "Sheffield Shield",
+        "shortName": "Sheffield Shield",
+        "shortAlternateName": "Sheffield Shield",
+        "slug": "sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2023/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2023/types"
+        },
+        "winner": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602"
+        },
+        "award": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2023/awards"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2023/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2023/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2023/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2023/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2023/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2023/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2023/sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2023/sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1391768.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "videos",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/video_audio/index.html?class=series;object=1391768",
+                "text": "Videos",
+                "shortText": "Videos",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2022",
+        "id": "8043",
+        "year": 2022,
+        "startDate": "2022-10-03T00:00Z",
+        "endDate": "2023-03-27T23:59Z",
+        "name": "Sheffield Shield 2022",
+        "alternateName": "Sheffield Shield",
+        "description": "Sheffield Shield",
+        "shortName": "Sheffield Shield",
+        "shortAlternateName": "Shield",
+        "slug": "sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2022/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2022/types"
+        },
+        "winner": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2022/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2022/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2022/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2022/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2022/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2022/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "squads",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/squad/index.html?object=1322367",
+                "text": "Squads",
+                "shortText": "Squads",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2022/sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2022/sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1322367.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2021",
+        "id": "8043",
+        "year": 2021,
+        "startDate": "2021-09-28T00:00Z",
+        "endDate": "2022-03-30T23:59Z",
+        "name": "Sheffield Shield 2021",
+        "alternateName": "Sheffield Shield",
+        "description": "Sheffield Shield",
+        "shortName": "Sheffield Shield",
+        "shortAlternateName": "Shield",
+        "slug": "sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2021/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2021/types"
+        },
+        "winner": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2021/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2021/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2021/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2021/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2021/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2021/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2021/sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2021/sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1270433.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2020",
+        "id": "8043",
+        "year": 2020,
+        "startDate": "2020-10-10T00:00Z",
+        "endDate": "2021-04-19T23:59Z",
+        "name": "Sheffield Shield 2020",
+        "alternateName": "Sheffield Shield",
+        "description": "Sheffield Shield",
+        "shortName": "Sheffield Shield",
+        "shortAlternateName": "Shield",
+        "slug": "sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2020/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2020/types"
+        },
+        "winner": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/459"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2020/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2020/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2020/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2020/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2020/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2020/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "squads",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/squad/index.html?object=1233442",
+                "text": "Squads",
+                "shortText": "Squads",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2020/sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2020/sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1233442.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "videos",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/video_audio/index.html?class=series;object=1233442",
+                "text": "Videos",
+                "shortText": "Videos",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2019",
+        "id": "8043",
+        "year": 2019,
+        "startDate": "2019-10-10T00:00Z",
+        "endDate": "2020-03-30T23:59Z",
+        "name": "Marsh Sheffield Shield 2019",
+        "alternateName": "Marsh Sheffield Shield",
+        "description": "Marsh Sheffield Shield",
+        "shortName": "Marsh Sheffield Shield",
+        "shortAlternateName": "Marsh Shield",
+        "slug": "marsh-sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2019/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2019/types"
+        },
+        "winner": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2019/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2019/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2019/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2019/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2019/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2019/marsh-sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "squads",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/squad/index.html?object=1196060",
+                "text": "Squads",
+                "shortText": "Squads",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2019/marsh-sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2019/marsh-sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1196060.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "videos",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/video_audio/index.html?class=series;object=1196060",
+                "text": "Videos",
+                "shortText": "Videos",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Marsh+Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2018",
+        "id": "8043",
+        "year": 2018,
+        "startDate": "2018-10-16T00:00Z",
+        "endDate": "2019-03-31T23:59Z",
+        "name": "Sheffield Shield 2018",
+        "alternateName": "Sheffield Shield",
+        "description": "Sheffield Shield",
+        "shortName": "Sheffield Shield",
+        "shortAlternateName": "Sheffield Shield",
+        "slug": "sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2018/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2018/types"
+        },
+        "winner": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/584"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2018/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2018/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2018/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2018/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2018/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2018/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "squads",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/squad/index.html?object=1150086",
+                "text": "Squads",
+                "shortText": "Squads",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2018/sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2018/sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1150086.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "videos",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/video_audio/index.html?class=series;object=1150086",
+                "text": "Videos",
+                "shortText": "Videos",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2017",
+        "id": "8043",
+        "year": 2017,
+        "startDate": "2017-10-26T00:00Z",
+        "endDate": "2018-03-23T23:59Z",
+        "name": "Sheffield Shield 2017",
+        "alternateName": "Sheffield Shield",
+        "description": "Sheffield Shield",
+        "shortName": "Sheffield Shield",
+        "shortAlternateName": "Sheffield Shield",
+        "slug": "sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2017/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2017/types"
+        },
+        "winner": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/459"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2017/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2017/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2017/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2017/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2017/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2017/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "squads",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/squad/index.html?object=1118861",
+                "text": "Squads",
+                "shortText": "Squads",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2017/sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2017/sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1118861.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2016",
+        "id": "8043",
+        "year": 2016,
+        "startDate": "2016-10-25T00:00Z",
+        "endDate": "2017-03-30T23:59Z",
+        "name": "Sheffield Shield 2016",
+        "alternateName": "",
+        "description": "Sheffield Shield",
+        "shortName": "Sheffield Shield",
+        "shortAlternateName": "",
+        "slug": "sheffield-shield",
+        "type": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2016/types/1"
+        },
+        "types": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2016/types"
+        },
+        "winner": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/584"
+        },
+        "teams": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2016/teams"
+        },
+        "events": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2016/events"
+        },
+        "notes": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2016/notes"
+        },
+        "groups": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2016/types/1/groups"
+        },
+        "rankings": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2016/rankings"
+        },
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2016/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "squads",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/squad/index.html?object=1036353",
+                "text": "Squads",
+                "shortText": "Squads",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "table",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/table/series/8043/season/2016/sheffield-shield",
+                "text": "Table",
+                "shortText": "Table",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "records",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/records/index.html?id=114;type=trophy",
+                "text": "Records",
+                "shortText": "Records",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "fixtures",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/scores/series/8043/season/2016/sheffield-shield",
+                "text": "Fixtures",
+                "shortText": "Fixtures",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "statistics",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/1036353.html?view=records",
+                "text": "Statistics",
+                "shortText": "Statistics",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "videos",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/content/video_audio/index.html?class=series;object=1036353",
+                "text": "Videos",
+                "shortText": "Videos",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "season",
+                    "desktop"
+                ],
+                "href": "https://www.espncricinfo.com/ci/engine/series/index.html?search=Sheffield+Shield;view=season",
+                "text": "Season",
+                "shortText": "Season",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ]
+    }
+]

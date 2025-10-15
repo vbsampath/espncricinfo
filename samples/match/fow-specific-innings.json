@@ -1,0 +1,412 @@
+[
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/1",
+        "wicketNumber": 1,
+        "wicketOver": 6.5,
+        "fowType": "out",
+        "runs": 9,
+        "runsScored": 4,
+        "ballsFaced": 25,
+        "athlete": {
+            "id": "1393951",
+            "guid": "444b4229-083a-352d-ab9a-e2d957eb8fd6",
+            "uid": "s:200~a:1393951",
+            "name": "Sam Konstas",
+            "lastName": "Konstas",
+            "shortName": "Konstas",
+            "fullName": "Sam James Konstas",
+            "displayName": "Sam Konstas",
+            "position": {
+                "abbreviation": "TBT"
+            },
+            "battingName": "SJ Konstas",
+            "fieldingName": "Konstas",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/default-player-logo-500.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/1393951.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    },
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/2",
+        "wicketNumber": 2,
+        "wicketOver": 18.5,
+        "fowType": "out",
+        "runs": 23,
+        "runsScored": 8,
+        "ballsFaced": 36,
+        "athlete": {
+            "id": "505110",
+            "guid": "dceb6755-9e9e-95c4-72ba-6ca8d9d69782",
+            "uid": "s:200~a:505110",
+            "name": "Kurtis Patterson",
+            "lastName": "Patterson",
+            "shortName": "Patterson",
+            "fullName": "Kurtis Robert Patterson",
+            "displayName": "Kurtis Patterson",
+            "position": {
+                "abbreviation": "MBT"
+            },
+            "battingName": "KR Patterson",
+            "fieldingName": "Patterson",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/full/505110.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/505110.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    },
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/3",
+        "wicketNumber": 3,
+        "wicketOver": 19.3,
+        "fowType": "out",
+        "runs": 23,
+        "runsScored": 9,
+        "ballsFaced": 57,
+        "athlete": {
+            "id": "1169066",
+            "guid": "f2f04b16-2eff-7bc5-c9e3-7f33ed3735e7",
+            "uid": "s:200~a:1169066",
+            "name": "Blake Nikitaras",
+            "lastName": "Nikitaras",
+            "shortName": "Nikitaras",
+            "fullName": "Blake Nikitaras",
+            "displayName": "Blake Nikitaras",
+            "position": {
+                "abbreviation": "TBT"
+            },
+            "battingName": "B Nikitaras",
+            "fieldingName": "Nikitaras",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/default-player-logo-500.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/1169066.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    },
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/4",
+        "wicketNumber": 4,
+        "wicketOver": 32.4,
+        "fowType": "out",
+        "runs": 71,
+        "runsScored": 21,
+        "ballsFaced": 37,
+        "athlete": {
+            "id": "1076377",
+            "guid": "277172cb-6e67-2886-6c2f-b94b1b40790d",
+            "uid": "s:200~a:1076377",
+            "name": "Oliver Davies",
+            "lastName": "Davies",
+            "shortName": "Davies",
+            "fullName": "Oliver Davies",
+            "displayName": "Oliver Davies",
+            "position": {
+                "abbreviation": "TBT"
+            },
+            "battingName": "O Davies",
+            "fieldingName": "Davies",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/default-player-logo-500.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/1076377.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    },
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/5",
+        "wicketNumber": 5,
+        "wicketOver": 36.4,
+        "fowType": "out",
+        "runs": 90,
+        "runsScored": 36,
+        "ballsFaced": 57,
+        "athlete": {
+            "id": "1081730",
+            "guid": "f802f5b7-25e8-51dd-99ba-75fab2813fff",
+            "uid": "s:200~a:1081730",
+            "name": "Matthew Gilkes",
+            "lastName": "Gilkes",
+            "shortName": "Gilkes",
+            "fullName": "Matthew Gilkes",
+            "displayName": "Matthew Gilkes",
+            "position": {
+                "abbreviation": "WBT"
+            },
+            "battingName": "M Gilkes",
+            "fieldingName": "Gilkes",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/default-player-logo-500.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/1081730.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    },
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/6",
+        "wicketNumber": 6,
+        "wicketOver": 42.4,
+        "fowType": "out",
+        "runs": 108,
+        "runsScored": 17,
+        "ballsFaced": 35,
+        "athlete": {
+            "id": "787073",
+            "guid": "e50267ca-e0cd-2fac-8997-1fc34411d910",
+            "uid": "s:200~a:787073",
+            "name": "Chris Green",
+            "lastName": "Green",
+            "shortName": "Green",
+            "fullName": "Christopher James Green",
+            "displayName": "Chris Green",
+            "position": {
+                "abbreviation": "BLA"
+            },
+            "battingName": "CJ Green",
+            "fieldingName": "Green",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/default-player-logo-500.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/787073.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    },
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/7",
+        "wicketNumber": 7,
+        "wicketOver": 47.2,
+        "fowType": "out",
+        "runs": 129,
+        "runsScored": 12,
+        "ballsFaced": 12,
+        "athlete": {
+            "id": "905853",
+            "guid": "2d9900ed-0fcb-30a3-3a64-0a64e730a0ce",
+            "uid": "s:200~a:905853",
+            "name": "Charlie Stobo",
+            "lastName": "Stobo",
+            "shortName": "Stobo",
+            "fullName": "Charles Henry Stobo",
+            "displayName": "Charlie Stobo",
+            "position": {
+                "abbreviation": "BLA"
+            },
+            "battingName": "CH Stobo",
+            "fieldingName": "Stobo",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/default-player-logo-500.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/905853.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    },
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/8",
+        "wicketNumber": 8,
+        "wicketOver": 58.5,
+        "fowType": "out",
+        "runs": 162,
+        "runsScored": 9,
+        "ballsFaced": 29,
+        "athlete": {
+            "id": "272279",
+            "guid": "ef9635dc-c21a-9ca4-aaff-bb5a4e25cae5",
+            "uid": "s:200~a:272279",
+            "name": "Nathan Lyon",
+            "lastName": "Lyon",
+            "shortName": "Lyon",
+            "fullName": "Nathan Michael Lyon",
+            "displayName": "Nathan Lyon",
+            "position": {
+                "abbreviation": "BL"
+            },
+            "battingName": "NM Lyon",
+            "fieldingName": "Lyon",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/full/272279.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/272279.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    },
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/9",
+        "wicketNumber": 9,
+        "wicketOver": 60.1,
+        "fowType": "out",
+        "runs": 165,
+        "runsScored": 43,
+        "ballsFaced": 72,
+        "athlete": {
+            "id": "1295845",
+            "guid": "aaf727fe-cd39-3159-9423-fef87496c3d9",
+            "uid": "s:200~a:1295845",
+            "name": "William Salzmann",
+            "lastName": "Salzmann",
+            "shortName": "Salzmann",
+            "fullName": "William Salzmann",
+            "displayName": "William Salzmann",
+            "position": {
+                "abbreviation": "BLA"
+            },
+            "battingName": "W Salzmann",
+            "fieldingName": "Salzmann",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/full/1295845.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/1295845.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    },
+    {
+        "$ref": "http://new.core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495281/competitions/1495281/competitors/387/linescores/1/1/fow/10",
+        "wicketNumber": 10,
+        "wicketOver": 62.5,
+        "fowType": "out",
+        "runs": 170,
+        "runsScored": 4,
+        "ballsFaced": 11,
+        "athlete": {
+            "id": "901155",
+            "guid": "4e8357d9-496f-03e4-2544-754a5e865c7f",
+            "uid": "s:200~a:901155",
+            "name": "Liam Hatcher",
+            "lastName": "Hatcher",
+            "shortName": "Hatcher",
+            "fullName": "Liam Conor Hatcher",
+            "displayName": "Liam Hatcher",
+            "position": {
+                "abbreviation": "BL"
+            },
+            "battingName": "LC Hatcher",
+            "fieldingName": "Hatcher",
+            "headshot": {
+                "href": "https://a.espncdn.com/i/headshots/cricket/players/default-player-logo-500.png",
+                "rel": [
+                    "full",
+                    "default"
+                ]
+            },
+            "links": [
+                {
+                    "rel": [
+                        "playercard",
+                        "desktop"
+                    ],
+                    "href": "https://www.espncricinfo.com/ci/content/player/901155.html",
+                    "text": "Player Card"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "playerId": 501011,
+    "url": "https://www.espncricinfo.com/player/player-name-501011",
+    "jsonUrl": "http://core.espnuk.org/v2/sports/cricket/athletes/501011",
+    "name": "Cameron Bancroft",
+    "firstName": "Cameron",
+    "fullName": "Cameron Timothy Bancroft",
+    "displayName": "Cameron Bancroft",
+    "dateOfBirth": "1992-11-19T00:00:00.000Z",
+    "currentAge": 32,
+    "playingRole": {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/positions/WBT",
+        "id": "WBT",
+        "name": "Wicketkeeper batter",
+        "abbreviation": "WBT",
+        "leaf": true,
+        "parent": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/positions/WBT"
+        }
+    },
+    "battingStyle": [
+        {
+            "description": "Right-hand bat",
+            "shortDescription": "Rhb",
+            "type": "batting"
+        }
+    ],
+    "bowlingStyle": []
+}

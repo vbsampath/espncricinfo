@@ -1,0 +1,283 @@
+[
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/895859/events/1495284",
+        "id": "1495284",
+        "uid": "s:200~e:1495284",
+        "date": "2025-10-15T00:30Z",
+        "endDate": "2025-10-19T23:59Z",
+        "name": "South Australia v Queensland",
+        "shortName": "SOA v QLD",
+        "shortDescription": "Sheffield Shield, 6th Match, at Adelaide",
+        "description": "6th Match, Sheffield Shield at Adelaide, Oct 15-18 2025",
+        "season": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025"
+        },
+        "seasonType": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025/types/1"
+        },
+        "timeValid": true,
+        "competitions": [
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284",
+                "id": "1495284",
+                "uid": "s:200~e:1495284~c:1495284",
+                "note": "Match scheduled to begin at 11:00 local time (00:30 GMT)",
+                "description": "6th Match",
+                "shortDescription": "6th Match,  at Adelaide",
+                "date": "2025-10-15T00:30Z",
+                "endDate": "2025-10-19T23:59Z",
+                "timeValid": true,
+                "neutralSite": true,
+                "attendance": 0,
+                "divisionCompetition": false,
+                "conferenceCompetition": false,
+                "previewAvailable": false,
+                "recapAvailable": false,
+                "boxscoreAvailable": false,
+                "gamecastAvailable": false,
+                "playByPlayAvailable": false,
+                "ticketsAvailable": false,
+                "conversationAvailable": false,
+                "pickcenterAvailable": false,
+                "dayNight": false,
+                "liveAvailable": true,
+                "fastcastAvailable": false,
+                "preCommentaryAvailable": false,
+                "updatesOnly": false,
+                "limitedOvers": false,
+                "recent": false,
+                "reducedOvers": false,
+                "class": {
+                    "internationalClassId": "0",
+                    "generalClassId": "4",
+                    "generalClassCard": "First-class",
+                    "name": "First-class matches",
+                    "eventType": "Test"
+                },
+                "onWatchESPN": false,
+                "necessary": false,
+                "venue": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/venues/56293",
+                    "id": "56293",
+                    "fullName": "Adelaide Oval",
+                    "shortName": "Adelaide Oval",
+                    "address": {
+                        "city": "Adelaide",
+                        "state": "",
+                        "zipCode": "",
+                        "country": "Australia",
+                        "summary": "North Adelaide, SA, 5006 Telephone: +61 8 8300 3800"
+                    },
+                    "capacity": 50000,
+                    "grass": true,
+                    "indoor": false,
+                    "images": [
+                        {
+                            "$ref": "http://www.espncricinfo.com/db/PICTURES/CMS/173100/173155.jpg"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "language": "en",
+                            "rel": [
+                                "ground",
+                                "desktop"
+                            ],
+                            "href": "https://www.espncricinfo.com/ci/content/ground/56293.html",
+                            "text": "Ground",
+                            "shortText": "Ground",
+                            "isExternal": false,
+                            "isPremium": false
+                        }
+                    ]
+                },
+                "competitors": [
+                    {
+                        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/520",
+                        "id": "520",
+                        "uid": "s:200~e:1495284~c:1495284~t:520",
+                        "type": "team",
+                        "order": 1,
+                        "homeAway": "home",
+                        "winner": false,
+                        "score": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/520/scores"
+                        },
+                        "team": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/events/1495284/teams/520"
+                        },
+                        "linescores": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/520/linescores/1"
+                        },
+                        "roster": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/520/roster"
+                        },
+                        "leaders": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/520/leaders"
+                        },
+                        "previousCompetition": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8626/events/1495317/competitions/1495317/competitors/520"
+                        },
+                        "nextCompetition": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8626/events/1495321/competitions/1495321/competitors/520"
+                        },
+                        "statistics": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/520/statistics"
+                        },
+                        "record": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/520/records"
+                        }
+                    },
+                    {
+                        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/459",
+                        "id": "459",
+                        "uid": "s:200~e:1495284~c:1495284~t:459",
+                        "type": "team",
+                        "order": 2,
+                        "homeAway": "away",
+                        "winner": false,
+                        "score": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/459/scores"
+                        },
+                        "team": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/events/1495284/teams/459"
+                        },
+                        "linescores": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/459/linescores/1"
+                        },
+                        "roster": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/459/roster"
+                        },
+                        "leaders": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/459/leaders"
+                        },
+                        "previousCompetition": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8626/events/1495316/competitions/1495316/competitors/459"
+                        },
+                        "nextCompetition": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8626/events/1495321/competitions/1495321/competitors/459"
+                        },
+                        "statistics": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/459/statistics"
+                        },
+                        "record": {
+                            "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/competitors/459/records"
+                        }
+                    }
+                ],
+                "status": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/status"
+                },
+                "details": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/details"
+                },
+                "tiebreaker": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/details?tiebreaker"
+                },
+                "officials": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/officials"
+                },
+                "odds": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/odds"
+                },
+                "matchcards": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/matchcards"
+                },
+                "broadcasts": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/broadcasts"
+                },
+                "tickets": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/tickets"
+                },
+                "notes": [
+                    {
+                        "href": "https://www.espncricinfo.com/ci/engine/series/index.html?season=2025/26",
+                        "text": "2025/26",
+                        "type": "season"
+                    },
+                    {
+                        "text": "15,16,17,18 October 2025 (4-day match)",
+                        "type": "matchdays"
+                    }
+                ],
+                "weather": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/weather/location/?date=",
+                    "type": "",
+                    "zipCode": "",
+                    "lastUpdated": "",
+                    "windSpeed": "",
+                    "windDirection": "",
+                    "temperature": "",
+                    "skyCode": "",
+                    "highTemperature": "",
+                    "lowTemperature": "",
+                    "city": "",
+                    "country": "",
+                    "source": "",
+                    "sourceLogo": {
+                        "href": "",
+                        "width": "",
+                        "height": "",
+                        "alt": ""
+                    },
+                    "skyImage": {
+                        "href": "",
+                        "width": "",
+                        "height": "",
+                        "alt": ""
+                    }
+                },
+                "situation": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495284/competitions/1495284/situation"
+                }
+            }
+        ],
+        "venues": [
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/venues/56293"
+            }
+        ],
+        "links": [
+            {
+                "language": "en",
+                "rel": [
+                    "event",
+                    "boxscore",
+                    "match",
+                    "live",
+                    "summary",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/8043/game/1495284/south-australia-vs-queensland-6th-match-sheffield-shield-2025-26",
+                "text": "Summary",
+                "shortText": "Summary",
+                "isExternal": false,
+                "isPremium": false
+            },
+            {
+                "language": "en",
+                "rel": [
+                    "event",
+                    "league",
+                    "serieshome",
+                    "desktop"
+                ],
+                "href": "https://www.espn.in/cricket/series/_/id/8043/season/2025/sheffield-shield",
+                "text": "Series Home",
+                "shortText": "Series Home",
+                "isExternal": false,
+                "isPremium": false
+            }
+        ],
+        "leagues": [
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043",
+                "season": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/seasons/2025"
+                },
+                "leagueType": "Secondary",
+                "isTournament": true
+            }
+        ]
+    }
+]

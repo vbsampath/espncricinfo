@@ -1,0 +1,914 @@
+[
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495281/competitions/1495281/details/110",
+        "id": "110",
+        "uid": "s:200~e:1495281~c:1495281~d:50349696",
+        "clock": "00:00",
+        "date": "2025-10-04T10:30Z",
+        "playType": {
+            "id": "2",
+            "description": "no run"
+        },
+        "team": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387"
+        },
+        "mediaId": 0,
+        "period": 1,
+        "periodText": "1st innings",
+        "shortPeriodText": "1st innings",
+        "xCoordinate": null,
+        "yCoordinate": null,
+        "preText": "",
+        "text": "",
+        "postText": "",
+        "shortText": "Paris to Nikitaras, no run",
+        "homeScore": "0/0",
+        "awayScore": "0",
+        "scoreValue": 0,
+        "sequence": 100001,
+        "athletesInvolved": [
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            }
+        ],
+        "hawkeyeId": null,
+        "boundary": false,
+        "speedKPH": null,
+        "speedMPH": null,
+        "bowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 1,
+            "wickets": 0,
+            "overs": 0.1,
+            "conceded": 0
+        },
+        "otherBowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 0,
+            "wickets": 0,
+            "overs": 0,
+            "conceded": 0
+        },
+        "batsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 1,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "otherBatsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 0,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "innings": {
+            "id": "278585",
+            "runRate": 0,
+            "remainingBalls": 0,
+            "byes": 0,
+            "number": 1,
+            "balls": 1,
+            "noBalls": 0,
+            "requiredRunRate": null,
+            "wickets": 0,
+            "legByes": 0,
+            "ballLimit": 0,
+            "target": 0,
+            "session": 0,
+            "day": 0,
+            "fallOfWickets": 0,
+            "trailBy": 0,
+            "leadBy": 0,
+            "remainingRuns": null,
+            "remainingOvers": 0,
+            "totalRuns": 0,
+            "wides": 0,
+            "runs": 0
+        },
+        "over": {
+            "ball": 1,
+            "balls": 6,
+            "complete": false,
+            "limit": 0,
+            "maiden": 1,
+            "noBall": 0,
+            "wide": 0,
+            "legByes": 0,
+            "byes": 0,
+            "number": 1,
+            "runs": 0,
+            "wickets": 0,
+            "overs": 0.1,
+            "actual": 0.1,
+            "unique": 0.01
+        },
+        "dismissal": {
+            "dismissal": false,
+            "bowled": false,
+            "type": "",
+            "bowler": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+                }
+            },
+            "batsman": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+                }
+            },
+            "text": "",
+            "minutes": 0,
+            "retiredText": ""
+        },
+        "bbbTimestamp": 0
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495281/competitions/1495281/details/120",
+        "id": "120",
+        "uid": "s:200~e:1495281~c:1495281~d:50349697",
+        "clock": "00:00",
+        "date": "2025-10-04T10:30Z",
+        "playType": {
+            "id": "2",
+            "description": "no run"
+        },
+        "team": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387"
+        },
+        "mediaId": 0,
+        "period": 1,
+        "periodText": "1st innings",
+        "shortPeriodText": "1st innings",
+        "xCoordinate": null,
+        "yCoordinate": null,
+        "preText": "",
+        "text": "",
+        "postText": "",
+        "shortText": "Paris to Nikitaras, no run",
+        "homeScore": "0/0",
+        "awayScore": "0",
+        "scoreValue": 0,
+        "sequence": 100002,
+        "athletesInvolved": [
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            }
+        ],
+        "hawkeyeId": null,
+        "boundary": false,
+        "speedKPH": null,
+        "speedMPH": null,
+        "bowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 2,
+            "wickets": 0,
+            "overs": 0.2,
+            "conceded": 0
+        },
+        "otherBowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 0,
+            "wickets": 0,
+            "overs": 0,
+            "conceded": 0
+        },
+        "batsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 2,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "otherBatsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 0,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "innings": {
+            "id": "278585",
+            "runRate": 0,
+            "remainingBalls": 0,
+            "byes": 0,
+            "number": 1,
+            "balls": 2,
+            "noBalls": 0,
+            "requiredRunRate": null,
+            "wickets": 0,
+            "legByes": 0,
+            "ballLimit": 0,
+            "target": 0,
+            "session": 0,
+            "day": 0,
+            "fallOfWickets": 0,
+            "trailBy": 0,
+            "leadBy": 0,
+            "remainingRuns": null,
+            "remainingOvers": 0,
+            "totalRuns": 0,
+            "wides": 0,
+            "runs": 0
+        },
+        "over": {
+            "ball": 2,
+            "balls": 6,
+            "complete": false,
+            "limit": 0,
+            "maiden": 1,
+            "noBall": 0,
+            "wide": 0,
+            "legByes": 0,
+            "byes": 0,
+            "number": 1,
+            "runs": 0,
+            "wickets": 0,
+            "overs": 0.2,
+            "actual": 0.2,
+            "unique": 0.02
+        },
+        "dismissal": {
+            "dismissal": false,
+            "bowled": false,
+            "type": "",
+            "bowler": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+                }
+            },
+            "batsman": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+                }
+            },
+            "text": "",
+            "minutes": 0,
+            "retiredText": ""
+        },
+        "bbbTimestamp": 0
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495281/competitions/1495281/details/130",
+        "id": "130",
+        "uid": "s:200~e:1495281~c:1495281~d:50349698",
+        "clock": "00:00",
+        "date": "2025-10-04T10:30Z",
+        "playType": {
+            "id": "2",
+            "description": "no run"
+        },
+        "team": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387"
+        },
+        "mediaId": 0,
+        "period": 1,
+        "periodText": "1st innings",
+        "shortPeriodText": "1st innings",
+        "xCoordinate": null,
+        "yCoordinate": null,
+        "preText": "",
+        "text": "",
+        "postText": "",
+        "shortText": "Paris to Nikitaras, no run",
+        "homeScore": "0/0",
+        "awayScore": "0",
+        "scoreValue": 0,
+        "sequence": 100003,
+        "athletesInvolved": [
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            }
+        ],
+        "hawkeyeId": null,
+        "boundary": false,
+        "speedKPH": null,
+        "speedMPH": null,
+        "bowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 3,
+            "wickets": 0,
+            "overs": 0.3,
+            "conceded": 0
+        },
+        "otherBowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 0,
+            "wickets": 0,
+            "overs": 0,
+            "conceded": 0
+        },
+        "batsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 3,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "otherBatsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 0,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "innings": {
+            "id": "278585",
+            "runRate": 0,
+            "remainingBalls": 0,
+            "byes": 0,
+            "number": 1,
+            "balls": 3,
+            "noBalls": 0,
+            "requiredRunRate": null,
+            "wickets": 0,
+            "legByes": 0,
+            "ballLimit": 0,
+            "target": 0,
+            "session": 0,
+            "day": 0,
+            "fallOfWickets": 0,
+            "trailBy": 0,
+            "leadBy": 0,
+            "remainingRuns": null,
+            "remainingOvers": 0,
+            "totalRuns": 0,
+            "wides": 0,
+            "runs": 0
+        },
+        "over": {
+            "ball": 3,
+            "balls": 6,
+            "complete": false,
+            "limit": 0,
+            "maiden": 1,
+            "noBall": 0,
+            "wide": 0,
+            "legByes": 0,
+            "byes": 0,
+            "number": 1,
+            "runs": 0,
+            "wickets": 0,
+            "overs": 0.3,
+            "actual": 0.3,
+            "unique": 0.03
+        },
+        "dismissal": {
+            "dismissal": false,
+            "bowled": false,
+            "type": "",
+            "bowler": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+                }
+            },
+            "batsman": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+                }
+            },
+            "text": "",
+            "minutes": 0,
+            "retiredText": ""
+        },
+        "bbbTimestamp": 0
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495281/competitions/1495281/details/140",
+        "id": "140",
+        "uid": "s:200~e:1495281~c:1495281~d:50349699",
+        "clock": "00:00",
+        "date": "2025-10-04T10:30Z",
+        "playType": {
+            "id": "2",
+            "description": "no run"
+        },
+        "team": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387"
+        },
+        "mediaId": 0,
+        "period": 1,
+        "periodText": "1st innings",
+        "shortPeriodText": "1st innings",
+        "xCoordinate": null,
+        "yCoordinate": null,
+        "preText": "",
+        "text": "",
+        "postText": "",
+        "shortText": "Paris to Nikitaras, no run",
+        "homeScore": "0/0",
+        "awayScore": "0",
+        "scoreValue": 0,
+        "sequence": 100004,
+        "athletesInvolved": [
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            }
+        ],
+        "hawkeyeId": null,
+        "boundary": false,
+        "speedKPH": null,
+        "speedMPH": null,
+        "bowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 4,
+            "wickets": 0,
+            "overs": 0.4,
+            "conceded": 0
+        },
+        "otherBowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 0,
+            "wickets": 0,
+            "overs": 0,
+            "conceded": 0
+        },
+        "batsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 4,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "otherBatsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 0,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "innings": {
+            "id": "278585",
+            "runRate": 0,
+            "remainingBalls": 0,
+            "byes": 0,
+            "number": 1,
+            "balls": 4,
+            "noBalls": 0,
+            "requiredRunRate": null,
+            "wickets": 0,
+            "legByes": 0,
+            "ballLimit": 0,
+            "target": 0,
+            "session": 0,
+            "day": 0,
+            "fallOfWickets": 0,
+            "trailBy": 0,
+            "leadBy": 0,
+            "remainingRuns": null,
+            "remainingOvers": 0,
+            "totalRuns": 0,
+            "wides": 0,
+            "runs": 0
+        },
+        "over": {
+            "ball": 4,
+            "balls": 6,
+            "complete": false,
+            "limit": 0,
+            "maiden": 1,
+            "noBall": 0,
+            "wide": 0,
+            "legByes": 0,
+            "byes": 0,
+            "number": 1,
+            "runs": 0,
+            "wickets": 0,
+            "overs": 0.4,
+            "actual": 0.4,
+            "unique": 0.04
+        },
+        "dismissal": {
+            "dismissal": false,
+            "bowled": false,
+            "type": "",
+            "bowler": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+                }
+            },
+            "batsman": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+                }
+            },
+            "text": "",
+            "minutes": 0,
+            "retiredText": ""
+        },
+        "bbbTimestamp": 0
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495281/competitions/1495281/details/150",
+        "id": "150",
+        "uid": "s:200~e:1495281~c:1495281~d:50349700",
+        "clock": "00:00",
+        "date": "2025-10-04T10:30Z",
+        "playType": {
+            "id": "2",
+            "description": "no run"
+        },
+        "team": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387"
+        },
+        "mediaId": 0,
+        "period": 1,
+        "periodText": "1st innings",
+        "shortPeriodText": "1st innings",
+        "xCoordinate": null,
+        "yCoordinate": null,
+        "preText": "",
+        "text": "",
+        "postText": "",
+        "shortText": "Paris to Nikitaras, no run",
+        "homeScore": "0/0",
+        "awayScore": "0",
+        "scoreValue": 0,
+        "sequence": 100005,
+        "athletesInvolved": [
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            }
+        ],
+        "hawkeyeId": null,
+        "boundary": false,
+        "speedKPH": null,
+        "speedMPH": null,
+        "bowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 5,
+            "wickets": 0,
+            "overs": 0.5,
+            "conceded": 0
+        },
+        "otherBowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 0,
+            "wickets": 0,
+            "overs": 0,
+            "conceded": 0
+        },
+        "batsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 5,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "otherBatsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 0,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "innings": {
+            "id": "278585",
+            "runRate": 0,
+            "remainingBalls": 0,
+            "byes": 0,
+            "number": 1,
+            "balls": 5,
+            "noBalls": 0,
+            "requiredRunRate": null,
+            "wickets": 0,
+            "legByes": 0,
+            "ballLimit": 0,
+            "target": 0,
+            "session": 0,
+            "day": 0,
+            "fallOfWickets": 0,
+            "trailBy": 0,
+            "leadBy": 0,
+            "remainingRuns": null,
+            "remainingOvers": 0,
+            "totalRuns": 0,
+            "wides": 0,
+            "runs": 0
+        },
+        "over": {
+            "ball": 5,
+            "balls": 6,
+            "complete": false,
+            "limit": 0,
+            "maiden": 1,
+            "noBall": 0,
+            "wide": 0,
+            "legByes": 0,
+            "byes": 0,
+            "number": 1,
+            "runs": 0,
+            "wickets": 0,
+            "overs": 0.5,
+            "actual": 0.5,
+            "unique": 0.05
+        },
+        "dismissal": {
+            "dismissal": false,
+            "bowled": false,
+            "type": "",
+            "bowler": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+                }
+            },
+            "batsman": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+                }
+            },
+            "text": "",
+            "minutes": 0,
+            "retiredText": ""
+        },
+        "bbbTimestamp": 0
+    },
+    {
+        "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/events/1495281/competitions/1495281/details/160",
+        "id": "160",
+        "uid": "s:200~e:1495281~c:1495281~d:50349701",
+        "clock": "00:00",
+        "date": "2025-10-04T10:30Z",
+        "playType": {
+            "id": "2",
+            "description": "no run"
+        },
+        "team": {
+            "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387"
+        },
+        "mediaId": 0,
+        "period": 1,
+        "periodText": "1st innings",
+        "shortPeriodText": "1st innings",
+        "xCoordinate": null,
+        "yCoordinate": null,
+        "preText": "",
+        "text": "",
+        "postText": "",
+        "shortText": "Paris to Nikitaras, no run",
+        "homeScore": "0/0",
+        "awayScore": "0",
+        "scoreValue": 0,
+        "sequence": 100006,
+        "athletesInvolved": [
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            }
+        ],
+        "hawkeyeId": null,
+        "boundary": false,
+        "speedKPH": null,
+        "speedMPH": null,
+        "bowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 1,
+            "balls": 6,
+            "wickets": 0,
+            "overs": 1,
+            "conceded": 0
+        },
+        "otherBowler": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/0"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/602/"
+            },
+            "maidens": 0,
+            "balls": 0,
+            "wickets": 0,
+            "overs": 0,
+            "conceded": 0
+        },
+        "batsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 6,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "otherBatsman": {
+            "athlete": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1393951"
+            },
+            "team": {
+                "$ref": "http://core.espnuk.org/v2/sports/cricket/teams/387/"
+            },
+            "totalRuns": 0,
+            "faced": 0,
+            "fours": 0,
+            "runs": 0,
+            "sixes": 0
+        },
+        "innings": {
+            "id": "278585",
+            "runRate": 0,
+            "remainingBalls": 0,
+            "byes": 0,
+            "number": 1,
+            "balls": 6,
+            "noBalls": 0,
+            "requiredRunRate": null,
+            "wickets": 0,
+            "legByes": 0,
+            "ballLimit": 0,
+            "target": 0,
+            "session": 0,
+            "day": 0,
+            "fallOfWickets": 0,
+            "trailBy": 0,
+            "leadBy": 0,
+            "remainingRuns": null,
+            "remainingOvers": 0,
+            "totalRuns": 0,
+            "wides": 0,
+            "runs": 0
+        },
+        "over": {
+            "ball": 6,
+            "balls": 6,
+            "complete": true,
+            "limit": 0,
+            "maiden": 1,
+            "noBall": 0,
+            "wide": 0,
+            "legByes": 0,
+            "byes": 0,
+            "number": 1,
+            "runs": 0,
+            "wickets": 0,
+            "overs": 1,
+            "actual": 0.6,
+            "unique": 0.06
+        },
+        "dismissal": {
+            "dismissal": false,
+            "bowled": false,
+            "type": "",
+            "bowler": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/501012"
+                }
+            },
+            "batsman": {
+                "athlete": {
+                    "$ref": "http://core.espnuk.org/v2/sports/cricket/leagues/8043/athletes/1169066"
+                }
+            },
+            "text": "",
+            "minutes": 0,
+            "retiredText": ""
+        },
+        "bbbTimestamp": 0
+    }
+]
